@@ -6,6 +6,7 @@
       <class name="mytests.Tests">
         <methods>
           <include name="Amazon"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- mytests.Tests -->
     </classes>
